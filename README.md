@@ -35,7 +35,7 @@ Click Deploy
 
 ##
 streamlit generates url:
-https://your-username-house-price-predictor.streamlit.app
+https://house-price-predictor-rsoqtqjrtgwsdesr6wgx3g.streamlit.app/
 
 ## Model Input Features
 Feature	Description	Example
